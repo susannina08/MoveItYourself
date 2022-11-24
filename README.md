@@ -6,4 +6,4 @@ Successivamente, ci siamo resi conto che il progetto poteva essere sviluppato pe
 
 Abbiamo quindi sviluppato l'idea di una startup in grado di realizzare supporti per disabili
 ciao rosso :)
-parte 2
+dududu
