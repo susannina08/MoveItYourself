@@ -6,3 +6,4 @@ Successivamente, ci siamo resi conto che il progetto poteva essere sviluppato pe
 
 Abbiamo quindi sviluppato l'idea di una startup che creerà degli strumenti e dei supporti per far si che anche una persona con disabilità fisiche e cognitive riesca a far muovere oggetti come una macchinina telecomandata.
 
+![yossy-made-yulian-WaEqwDSIeTY-unsplash](https://user-images.githubusercontent.com/117916840/203806516-f94795f3-7b47-4279-aca7-cfbc314669cc.jpg)
