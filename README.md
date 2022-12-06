@@ -9,3 +9,7 @@ Successivamente, ci siamo resi conto che il progetto poteva essere sviluppato pe
 
 Abbiamo quindi sviluppato l'idea di una startup che creerà degli strumenti e dei supporti per far si che anche una persona con disabilità fisiche e cognitive riesca a far muovere oggetti come una macchinina telecomandata.
 
+
+test vari con arduino e tinkerkit linear potentiometer
+
+bluethoot = manda tramite byte e non int (spiega bene sta cosa)
