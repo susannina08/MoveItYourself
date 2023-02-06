@@ -16,17 +16,23 @@ Codice arduino nano 33 iot centrale
 #include <Arduino_LSM6DS3.h>
 
 float x, y, z;
+
 int plusThreshold = 100;
+
 int minusThreshold = -100;
 
 void setup() {
 
   Serial.begin(9600);
+  
   Serial.println("Started");
 
   if (!IMU.begin()) {
+  
     Serial.println("Failed to initialize IMU!");
+    
     while (1);
+    
   }
 
   BLE.begin();
