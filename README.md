@@ -10,7 +10,7 @@ Abbiamo quindi sviluppato l'idea di una startup che creerà degli strumenti e de
 Di seguito, inseriamo il codice dei nostri arduino.
 
 
-# Codice arduino nano 33 iot centrale
+## Codice arduino nano 33 iot centrale
   
   #include <ArduinoBLE.h> </p>
 #include <Arduino_LSM6DS3.h> </p>
@@ -131,7 +131,7 @@ if (y > plusThreshold)</p>
   Serial.println("Peripheral disconnected");</p>
 }</p>
 </p>
-# codice arduino nano 33 iot periferico</p>
+## codice arduino nano 33 iot periferico</p>
 #include <ArduinoBLE.h></p>
 BLEService ledService("19B10000-E8F2-537E-4F6C-D104768A1214"); // Bluetooth® Low Energy LED Service</p>
 // Bluetooth® Low Energy LED Switch Characteristic - custom 128-bit UUID, read and writable by central</p>
@@ -218,4 +218,4 @@ void loop() {</p>
   }
 } 
 </p>
-Per maggiori informazioni: (link al video fatto)
+## Per maggiori informazioni: [Abbiamo fatto un video!](https://vimeo.com/796631501)
