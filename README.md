@@ -9,7 +9,6 @@ Abbiamo quindi sviluppato l'idea di una startup che creerà degli strumenti e de
 
 Di seguito, inseriamo il codice dei nostri arduino.
 
-bluethoot = manda tramite byte e non int (spiega bene sta cosa)
 
 Codice arduino nano 33 iot centrale
   
